@@ -1,1 +1,2 @@
 created sample1.txt file
+second line command
