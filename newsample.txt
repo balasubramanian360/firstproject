@@ -12,3 +12,15 @@ hellow
 
 * to again add a git folder from the gitrepo because anybody can change a somthing in that repo so you want to add 
   that changes in your file                                 (git pull )
+
+
+* to came back a current folder to the previous folder use   (cd ..)
+
+* if you create a folder in your pc and you want to add this on github as a new repo use this  
+                                                             (git init)
+        =>And then create a repo on your original github site (git remote add origin https://github.com/balasubramanian360/Sample_Repo.git)
+        =>And then add changes and to add all changes in your all file use this (git add .)
+        =>And then commit the changes                         (git commit -m your messages)
+        =>And now your branch is named as "master" so you can change your branch name as "main" asusual. so use this comand
+                                                               (git branch -M main)
+        =>And then asusal you push your folder                 (git push origin main)
