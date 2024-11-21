@@ -1,10 +1,14 @@
 hellow
 
-to retrive a folder into a git repo (git clone https://github.com/balasubramanian360/firstproject.git)
-befor this config user name and email into your cmd
+* to retrive a folder into a git repo                         (git clone https://github.com/balasubramanian360/firstproject.git)
+* befor this config user name and email into your cmd
 
 
-to upload a file local git to github repo 
+* to upload a file local git to github repo 
         => First add the file into stage file               (git add sample3.txt)
         => Second commit the file into local git folder     (git commit -m "sample3.txt was deleted")
         => third push the file into original github repo    (git push origin main)
+
+
+* to again add a git folder from the gitrepo because anybody can change a somthing in that repo so you want to add 
+  that changes in your file                                 (git pull )
