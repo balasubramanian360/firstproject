@@ -1,5 +1,8 @@
 hellow
 
+to retrive a folder into a git repo (git clone https://github.com/balasubramanian360/firstproject.git)
+befor this config user name and email into your cmd
+
 
 to upload a file local git to github repo 
         => First add the file into stage file               (git add sample3.txt)
